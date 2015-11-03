@@ -1,3 +1,3 @@
 # Pandora [WIP]
 
-Photo collection app， based on Qiniu.
+Photo collection app， based on Electron.
